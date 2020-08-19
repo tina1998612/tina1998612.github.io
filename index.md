@@ -1,8 +1,8 @@
-# Lee Ting Ting (Tina)
-Blockchain Developer & Researcher / Technical writer on Medium with 1.7k subscribers / Amature model & dance lover ;)
+<!-- # Lee Ting Ting (Tina) -->
+Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Technical Writer / Amateur Model
 
 ## Bio
-Graduated from [Taipei First Girls High School](http://www.fg.tp.edu.tw/bin/home.php), I am now a second year student in [The Hong Kong University of Science and Technology](https://www.ust.hk/), major in [Computer Science](https://www.cse.ust.hk/). I started coding in the [competitve programming](https://en.wikipedia.org/wiki/Competitive_programming) space at the age of 17. I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my internship as a Data and AI Associate Consultant at Microsoft, and determined to be a researcher in this field and spread the technology through teaching and writing. Lastly, I am also a Women in Tech advocator who strives to bring in more female in the Technology field! :)   
+I am now in my third year at [The Hong Kong University of Science and Technology](https://www.ust.hk/), major in [Computer Science](https://www.cse.ust.hk/). I started coding in the competitive programming space at the age of 17. I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my internship as a Data and AI Associate Consultant at Microsoft, and determined to be a researcher in this field and spread the technology through teaching and writing. 
 
 
 ## Research Interest
