@@ -111,7 +111,7 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ## Writing
 
-[Profile Link](https://medium.com/@tina26919742) (4.5K subscribers)
+[Medium Profile](https://medium.com/@tina26919742) (4.5K subscribers)
 
 Writer of [The Startup](https://medium.com/swlh) (684K subscribers), [Hackernoon](https://hackernoon.com/) (487K subscribers), [Noteworthy - The Journal Blog](https://blog.usejournal.com/) (81K subscribers), [Marketing And Growth Hacking](https://blog.markgrowth.com/) (62K subscribers), [Code Like A Girl](https://code.likeagirl.io/) (42K subscribers), [Coinmonks](https://medium.com/coinmonks) (21K subscribers), [Taipei Ethereum Meetup](https://medium.com/taipei-ethereum-meetup), and [Turing Chain Institute](https://medium.com/turing-chain-institute-%E5%9C%96%E9%9D%88%E9%8F%88%E5%AD%B8%E9%99%A2).
 
@@ -137,7 +137,8 @@ Writer of [The Startup](https://medium.com/swlh) (684K subscribers), [Hackernoon
 
 ## Work Experience
 
-- **CTO & Co-founder** / [**Turing Chain Ltd.**](https://turingchain.tech/) / Hong Kong, China / 2018/05 - 2020/02
+- **Technical Writer** / _[Status.im](https://status.im/)_ / Remote / 2020/03 - 2020/07
+- **Co-Founder & CTO** / _[Turing Chain Ltd.](https://turingchain.tech/)_ / Hong Kong, China / 2018/05 - 2020/02
 - **Chief Blockchain Researcher** / _SELFPICK Production_ / Taipei, Taiwan / 2018/11 - 2019/01
   - Develop DApp and upgradable smart contract architecture to energize the first Movie Blockchain in East Asia.
 - **Data and AI Associate Consultant** / _Microsoft_ / Hong Kong, Guangzhou, and Taiwan / 2018/06 – 2018/10
