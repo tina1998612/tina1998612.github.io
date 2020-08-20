@@ -2,11 +2,13 @@
 
 _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Technical Writer / Amateur Model_
 
-<img align="left" margin="10" src="./img/Black_smile.JPG" alt="alt text" width="250" height="whatever">
+<img align="left" margin="10" src="./img/Black_smile.JPG" alt="alt text" width="260" height="whatever">
 
 ## Bio
 
-I am now in my third year at [The Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), major in Computer Science. I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my Data and AI Associate Consultant position at Microsoft and co-founded my company [Turing Chain](https://turingchain.tech/) and [TuringCerts](https://certs.turingchain.tech/). However, in late 2019, due to that the interests within the founding team cannot align, I left my companies and resume study, yet the start of the political protests in Hong Kong led me to return to Taiwan. I am thus now a visiting student at [National Taiwan University (NTU)](https://www.ntu.edu.tw/) and has been a researcher in the NTU HCI Lab under [professor Cheng](http://www.lungpancheng.tw/) since early 2020.
+I am now in my third year at [The Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), major in Computer Science, was a a visiting scholar at [University Of California, Berkeley](https://www.berkeley.edu/) - [Blockchain X-Lab](https://scet.berkeley.edu/blockchain-lab/) and now at the [National Taiwan University (NTU)](https://www.ntu.edu.tw/)'s HCI Lab.
+
+I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my position as a Data and AI Associate Consultant at Microsoft and co-founded my company [Turing Chain](https://turingchain.tech/) and [TuringCerts](https://certs.turingchain.tech/). However, in late 2019, due to the interests within the founding team cannot align, I left my companies and resume study, yet the start of the political protests in Hong Kong led me to return to my home country Taiwan. I am thus now a visiting student at NTU and has been a researcher in the HCI Lab under [professor Cheng](http://www.lungpancheng.tw/) since early 2020.
 
 ## Research Interest
 
@@ -14,7 +16,7 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ## Profile
 
-[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [Instagram](https://www.instagram.com/tinaaaaalee/)
+[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [Facebook](https://www.facebook.com/lee.ting.ting.tina), [Instagram](https://www.instagram.com/tinaaaaalee/)
 
 ## Publications
 
