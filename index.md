@@ -6,14 +6,14 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
 /* phone view, 100 - 750px */
 @media (min-width: 0px) and (max-width: 750px) {
     img[alt=profilePic] {
-    width:280px;
+    width:285px;
     /* visibility: hidden; */ 
     }
 }
 /* desktop view, > 750px */
 @media (min-width: 750px) {
     img[alt=profilePic] {
-    width:280px;
+    width:285px;
     float: left;
     padding-right: 35px;
     /* visibility: visible; */
