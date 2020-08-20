@@ -22,10 +22,7 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
 }
 </style>
 
-<!-- if desktop screen size-->
 <img src="./img/Black_smile.JPG" alt="profilePic" height="whatever">
-<!-- if phone screen size-->
-<!-- <img src="./img/Black_smile.JPG" alt="alt text" width="280" height="whatever"> -->
 
 ## Bio
 
@@ -87,13 +84,12 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ## Selected Projects
 
-- [BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap)
+- [Awesome Security Tool List](https://github.com/tina1998612/Awesome-Security-Tool-List) (147 Stars, 12 Fork)
+  - A list of security tools, websites, and softwares that I have used or recommend.
+- [BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap) (35 Stars, 18 Fork)
   - A cross-chain atomic token swap environment built upon ConsenSys Liquality chain abstraction layer.
   - Winner of ETH San Francisco ConsenSys Sponsorship prize (2018). [Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)
-- [The Neon Network: E-coupon on Blockchain](https://github.com/yhuag/The-Neon-Network-ECoupons-On-Blockchain)
-  - A framework for digital coupons issuing, transferal, and redemption on Ethereum blockchain.
-  - Winner of EtNet FinTech Awards (Hong Kong, 2017) and UpTown E-commerce Competition (Seoul, 2018)
-- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty)
+- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty) (33 Stars, 10 Fork)
   - An blockchain collectible game on Tron blockchain thats for photographers and models industry.
 
 ## Open Source Contribution
