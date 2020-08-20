@@ -139,14 +139,14 @@ Writer of [The Startup](https://medium.com/swlh) (684K subscribers), [Hackernoon
 
 - **Technical Writer** / _[Status.im](https://status.im/)_ / Remote / 2020/03 - 2020/07
 - **Co-Founder & CTO** / _[Turing Chain Ltd.](https://turingchain.tech/)_ / Hong Kong, China / 2018/05 - 2020/02
-- **Chief Blockchain Researcher** / _SELFPICK Production_ / Taipei, Taiwan / 2018/11 - 2019/01
-  - Develop DApp and upgradable smart contract architecture to energize the first Movie Blockchain in East Asia.
+- **Chief Blockchain Researcher** / _[SELFPICK Production](https://www.facebook.com/selfpick/)_ / Taipei, Taiwan / 2018/11 - 2019/01
+  - Develop DApp and upgradable smart contract architecture to energize the first Movie Blockchain in East Asia ([Self Token](https://selftoken.co/)).
 - **Data and AI Associate Consultant** / _Microsoft_ / Hong Kong, Guangzhou, and Taiwan / 2018/06 – 2018/10
   - Design Hierarchical Time Series models which predicts sales volume for P&G and Crystal Group on historical trend in R and Python.
-- **Blockchain Developer** / _Diginex_ / Hong Kong / 2018/01 – 2018/02
+- **Blockchain Developer** / _[Diginex](https://www.diginex.com/)_ / Hong Kong / 2018/01 – 2018/02
   - Ensure product integrity through smart contract auditing on ICO crowd sales.
   - Contribute to open source by publishing NPM modules.
-- **Embedded System Software Engineer** / _HKUST Robotics Team_ / Hong Kong / 2017/01 - 2017/07
+- **Embedded System Software Engineer** / _[HKUST Robotics Team](https://robotics.ust.hk/)_ / Hong Kong / 2017/01 - 2017/07
   - Design feature extraction and optimal path algorithms for micro services including intelligent robots and line following smart cars.
 
 ## Community and Organization
