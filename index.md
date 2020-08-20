@@ -2,7 +2,7 @@
 
 _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Technical Writer / Amateur Model_
 
-![profile pic](./img/Black_smile.JPG =100x)
+<img src="./img/Black_smile.JPG" alt="alt text" width="250" height="whatever">
 
 ## Bio
 
