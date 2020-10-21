@@ -5,15 +5,33 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
 <style>
 /* phone view, 100 - 750px */
 @media (min-width: 0px) and (max-width: 750px) {
-    img {
+    img[alt="profilePic"] {
     width:285px;
     /* visibility: hidden; */ 
     }
 }
 /* desktop view, > 750px */
 @media (min-width: 750px) {
-    img {
+    img[alt="profilePic"] {
     width:285px;
+    float: left;
+    padding-right: 35px;
+    padding-top: 15px;
+    /* visibility: visible; */
+    }
+}
+
+/* phone view, 100 - 750px */
+@media (min-width: 0px) and (max-width: 750px) {
+    img[alt="hapticenter"] {
+    width:285px;
+    /* visibility: hidden; */ 
+    }
+}
+/* desktop view, > 750px */
+@media (min-width: 750px) {
+    img[alt="hapticenter"] {
+    height:200px;
     float: left;
     padding-right: 35px;
     padding-top: 15px;
@@ -54,7 +72,7 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 <p float="left">
   <img src="./img/hapticenter/main.jpg" alt="hapticenter">
-  <img src="./img/hapticenter/Props.png" alt="props">
+  <img src="./img/hapticenter/Props.png" alt="hapticenter">
 </p>
 
 <div>
