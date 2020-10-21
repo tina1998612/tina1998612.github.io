@@ -5,14 +5,14 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
 <style>
 /* phone view, 100 - 750px */
 @media (min-width: 0px) and (max-width: 750px) {
-    img[alt=profilePic] {
+    img {
     width:285px;
     /* visibility: hidden; */ 
     }
 }
 /* desktop view, > 750px */
 @media (min-width: 750px) {
-    img[alt=profilePic] {
+    img {
     width:285px;
     float: left;
     padding-right: 35px;
@@ -22,13 +22,13 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
 }
 </style>
 
-<img src="./img/Black_smile.JPG" alt="profilePic" height="whatever">
+<img src="./img/Black_smile.JPG" alt="profilePic">
 
 ## Bio
 
-I am now in my third year at [The Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), major in Computer Science, was a a visiting scholar at [University Of California, Berkeley](https://www.berkeley.edu/) - [Blockchain X-Lab](https://scet.berkeley.edu/blockchain-lab/) and now at the [National Taiwan University (NTU)](https://www.ntu.edu.tw/)'s HCI Lab.
+I am now in my fourth year at [The Hong Kong University of Science and Technology (HKUST)](https://www.ust.hk/), major in Computer Science, was a a visiting scholar at [University Of California, Berkeley](https://www.berkeley.edu/) - [Blockchain X-Lab](https://scet.berkeley.edu/blockchain-lab/) and now at the [National Taiwan University (NTU)](https://www.ntu.edu.tw/)'s HCI Lab.
 
-I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my position as a Data and AI Associate Consultant at Microsoft and co-founded my company [Turing Chain](https://turingchain.tech/) and [TuringCerts](https://certs.turingchain.tech/). However, in late 2019, due to the interests within the founding team cannot align, I left my companies and resume study, yet the start of the political protests in Hong Kong led me to return to my home country Taiwan. I am thus now a visiting student at NTU and has been a researcher in the HCI Lab under [professor Cheng](http://www.lungpancheng.tw/) since early 2020.
+I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my position as a Data and AI Associate Consultant at Microsoft and co-founded my company [Turing Chain](https://turingchain.tech/) and [TuringCerts](https://certs.turingchain.tech/). However, in late 2019, due to the interests within the founding team cannot align, I left my companies and resume study, yet the start of the political protests in Hong Kong led me to return to my home country Taiwan. I am thus now a visiting student at NTU and has been a researcher in the HCI Lab under [professor Cheng](http://www.lungpancheng.tw/) since early 2020. Driven by my growing interest in VR, I started my YouTube Channel _VRemix_x_ in September 2020 and gained 6K subscribers and 11K monthly views within 1.5 month. In my free time, I write technical tutorials on my Medium blog with 4.6K subscribers worldwide to date.
 
 ## Research Interest
 
@@ -36,7 +36,7 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ## Profile
 
-[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [Online Course](https://hahow.in/cr/berkeley), [Facebook](https://www.facebook.com/lee.ting.ting.tina), [Instagram](https://www.instagram.com/tinaaaaalee/)
+[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [YouTube](https://www.youtube.com/VRemix_x%E8%B3%87%E5%B7%A5%E5%B0%91%E5%A5%B3%E6%9D%8E%E5%A9%B7%E5%A9%B7), [Online Course](https://hahow.in/cr/berkeley), [Facebook](https://www.facebook.com/lee.ting.ting.tina), [Instagram](https://www.instagram.com/tinaaaaalee/)
 
 ## Publications
 
@@ -45,6 +45,29 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 [2] Yao-Chieh Hu, **Ting-Ting Lee**, Dimitris Chatzopoulos, and Pan Hui. 2019. "[Analyzing Smart Contract Interactions and Contract Level State Consensus](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5228)," In _Concurrency and Computation: Practice and Experience (WILEY) Journal_, 2019.
 
 [3] Yao-Chieh Hu, **Ting-Ting Lee**, and Chungsang Lam. 2019. "[A Risk Redistribution Standard for Practical Cryptocurrency Payment](https://ieeexplore.ieee.org/abstract/document/8783071)," in 2019 IEEE International Conference on Decentralized Applications and Infrastructures. DAPPCON 2019. Newark, USA, Apr. 2019.
+
+## Selected Projects
+
+### Ongoing
+
+- [HaptiCenter: A Distribution System for Sharing Haptic Devices in VR](./hapticenter.md)
+
+  <img src="./img/hapticenter/main.jpg" alt="hapticenter">
+
+  A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
+
+- [Adaptive Virtual Agent in Mixed Reality](./virtualagent.md)
+  - An interactive virtual agent to improve the well-being of the user with low-cost and easy-to-obtain materials including a smartphone, a stand, a transparent plastic sheet, and a thin mirror attached to extend the phone’s front camera’s view.
+
+### Past
+
+- [Awesome Security Tool List](https://github.com/tina1998612/Awesome-Security-Tool-List) (147 Stars, 12 Fork)
+  - A list of security tools, websites, and softwares that I have used or recommend.
+- [BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap) (35 Stars, 18 Fork)
+  - A cross-chain atomic token swap environment built upon ConsenSys Liquality chain abstraction layer.
+  - Winner of ETH San Francisco ConsenSys Sponsorship prize (2018). [Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)
+- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty) (33 Stars, 10 Fork)
+  - An blockchain collectible game on Tron blockchain thats for photographers and models industry.
 
 ## Honors
 
@@ -62,17 +85,9 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 - _Winner of \$100,000 Project Funding_ / **Cyberport University Partnership Program** / Hong Kong, China / 2018
 - _Gold Prize_ / **FinTech Awards 2017** / Hong Kong, China / 2017
 
-## Speakership
-
-- _Introduction of Blockchain and Distributed Ledger Technology for Java Engineers_ / **[Java Community Conference 2018](https://jcconf.tw/2018/index.html)** / Taipei, Taiwan
-- _[Smart Contract Interactions and Development](https://www.meetup.com/Taipei-Ethereum-Meetup/events/253865600/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
-- _[Hands-on Transaction Sign & Custodian Smart Contract](https://www.meetup.com/Taipei-Ethereum-Meetup/events/ggbhdpyxcbdb/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
-- _[Geth Application](https://www.meetup.com/Taipei-Ethereum-Meetup/events/241841700/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
-- _Write and deploy your first smart contract in 30 minutes_ / **HKUST Tech Club** / Hong Kong, China
-
 ## Teaching
 
-- _Instructor_ at [**Introductory Blockchain Online Course**](http://hahow.in/cr/berkeley) (3 hours):
+- _Instructor_ at [**Introductory Blockchain Online Course**](http://hahow.in/cr/berkeley) (5 chapters, 47 units):
   - The blockchain beginner's online course with the most registered students and in collaboration with multiple universities in Taiwan.
 - _Assistant Instructor_ at **IEEE Full-stack Blockchain Development Tutorial**](https://www.payblock.cash/event/dappcon-tutorial):
   - A blockchain tutorial course co-located with five other IEEE conferences in 2019.
@@ -82,15 +97,13 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 - _Primary instructor_ at **BlockAngel Class [Female only]**
   - [Introduction to Blockchain and Smart Contracts Principle and Technology](https://www.facebook.com/events/310125033117595/) / [BitHub](https://www.facebook.com/BITHUBbistro/?ref=br_rs), Taiwan
 
-## Selected Projects
+## Speakership
 
-- [Awesome Security Tool List](https://github.com/tina1998612/Awesome-Security-Tool-List) (147 Stars, 12 Fork)
-  - A list of security tools, websites, and softwares that I have used or recommend.
-- [BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap) (35 Stars, 18 Fork)
-  - A cross-chain atomic token swap environment built upon ConsenSys Liquality chain abstraction layer.
-  - Winner of ETH San Francisco ConsenSys Sponsorship prize (2018). [Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)
-- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty) (33 Stars, 10 Fork)
-  - An blockchain collectible game on Tron blockchain thats for photographers and models industry.
+- _Introduction of Blockchain and Distributed Ledger Technology for Java Engineers_ / **[Java Community Conference 2018](https://jcconf.tw/2018/index.html)** / Taipei, Taiwan
+- _[Smart Contract Interactions and Development](https://www.meetup.com/Taipei-Ethereum-Meetup/events/253865600/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
+- _[Hands-on Transaction Sign & Custodian Smart Contract](https://www.meetup.com/Taipei-Ethereum-Meetup/events/ggbhdpyxcbdb/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
+- _[Geth Application](https://www.meetup.com/Taipei-Ethereum-Meetup/events/241841700/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
+- _Write and deploy your first smart contract in 30 minutes_ / **HKUST Tech Club** / Hong Kong, China
 
 ## Open Source Contribution
 
