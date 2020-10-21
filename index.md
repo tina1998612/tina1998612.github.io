@@ -52,12 +52,19 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 - [HaptiCenter: A Distribution System for Sharing Haptic Devices in VR](./hapticenter.md)
 
+<p float="left">
   <img src="./img/hapticenter/main.jpg" alt="hapticenter">
+  <img src="./img/hapticenter/Props.png" alt="props">
+</p>
 
-  A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
+<div>
+A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
+</div>
 
 - [Adaptive Virtual Agent in Mixed Reality](./virtualagent.md)
   - An interactive virtual agent to improve the well-being of the user with low-cost and easy-to-obtain materials including a smartphone, a stand, a transparent plastic sheet, and a thin mirror attached to extend the phone’s front camera’s view.
+
+<br>
 
 ### Past
 
