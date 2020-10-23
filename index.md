@@ -103,7 +103,7 @@ A system that stores, schedules, and distributes haptic devices to the right use
   - A cross-chain atomic token swap environment built upon the ConsenSys Liquality's chain abstraction layer.
   - Winner of ETH San Francisco ConsenSys Sponsorship prize 2018 ([Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)).
 - **[CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty)** (33 Stars, 10 Fork)
-  - A blockchain collectible game on Tron blockchain thats for photographers and models industry.
+  - A blockchain collectible game on the TRON blockchain for the photographer and model industry.
 
 ## Honors
 
