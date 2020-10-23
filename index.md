@@ -26,6 +26,7 @@ _Research Scholar at NTU HCI Lab, UC Berkeley Blockchain Lab / Lecturer / Techni
     img[alt="hapticenter"] {
     width:285px;
     padding-bottom: 15px;
+    display: inline-block;
     /* visibility: hidden; */ 
     }
 }
@@ -83,10 +84,10 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
 
-<p float="left">
+<div id='wrapper' style='text-align: center;'>
   <img src="./img/hapticenter/main.jpg" alt="hapticenter">
   <img src="./img/hapticenter/Props.png" alt="hapticenter">
-</p>
+</div>
 
 #### [Adaptive Virtual Agent in Mixed Reality](./virtualagent.md)
 
