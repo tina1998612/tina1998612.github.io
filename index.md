@@ -124,7 +124,7 @@ A system that stores, schedules, and distributes haptic devices to the right use
 ## Teaching
 
 - _Instructor_ at [**Introductory Blockchain Online Course**](http://hahow.in/cr/berkeley) (5 chapters, 47 units):
-  - The blockchain beginner's online course with the most registered students (around 1500) and in collaboration with multiple universities in Taiwan. 
+  - The blockchain beginner's online course with the most registered students (around 1500) and in collaboration with multiple universities in Taiwan.
 - _Assistant Instructor_ at **IEEE Full-stack Blockchain Development Tutorial**](https://www.payblock.cash/event/dappcon-tutorial):
   - A blockchain tutorial course co-located with five other IEEE conferences in 2019.
   - Location: East Bay, San Francisco, California, USA
@@ -132,9 +132,15 @@ A system that stores, schedules, and distributes haptic devices to the right use
   - Blockchain minor-unit course on smart contracts development / National Taipei University of Technology, Taipei
 - _Primary instructor_ at **BlockAngel Class [Female only]**
   - [Introduction to Blockchain and Smart Contracts Principle and Technology](https://www.facebook.com/events/310125033117595/) / [BitHub](https://www.facebook.com/BITHUBbistro/?ref=br_rs), Taiwan
+- _Primary instructor_ at **Hands-on Workshop on SparkAR**
+  - A workshop on SparkAR at the University of Taipei, Tien-Mu Campus.
 
 ## Speakership
 
+- _TEDx Youth: From An Idea to Entrepreneurship_ / **[Taipei First Girls High School](http://www.fg.tp.edu.tw/bin/home.php)** / Taipei, Taiwan
+- _Startup Talks: My Journey of Starting a Blockchain Venture_ / **[Monte Jade Science & Technology Association of Taiwan](http://www.mjtaiwan.org.tw/pages/)** / Taipei, Taiwan
+- _The Ups and Downs of Being a Female in Entrepreneurship_ / **[Stanford Philosophy Friday](https://www.facebook.com/cafephilotw)** / Stanford, California
+- _The Journey of Starting a Tech Company & The New Trends in Blockchain and Virtual Reality_ / **[HKUST CSE Festival 2020](https://csess.su.ust.hk/activity/126)** / Hong Kong, China
 - _Introduction of Blockchain and Distributed Ledger Technology for Java Engineers_ / **[Java Community Conference 2018](https://jcconf.tw/2018/index.html)** / Taipei, Taiwan
 - _[Smart Contract Interactions and Development](https://www.meetup.com/Taipei-Ethereum-Meetup/events/253865600/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
 - _[Hands-on Transaction Sign & Custodian Smart Contract](https://www.meetup.com/Taipei-Ethereum-Meetup/events/ggbhdpyxcbdb/)_ / **Taipei Ethereum Meetup** / Taipei, Taiwan
