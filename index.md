@@ -97,13 +97,13 @@ A system that stores, schedules, and distributes haptic devices to the right use
 
 ### Past
 
-- [Awesome Security Tool List](https://github.com/tina1998612/Awesome-Security-Tool-List) (147 Stars, 12 Fork)
+- **[Awesome Security Tool List](https://github.com/tina1998612/Awesome-Security-Tool-List)** (147 Stars, 12 Fork)
   - A list of security tools, websites, and softwares that I have used or recommend.
-- [BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap) (35 Stars, 18 Fork)
-  - A cross-chain atomic token swap environment built upon ConsenSys Liquality chain abstraction layer.
-  - Winner of ETH San Francisco ConsenSys Sponsorship prize (2018). [Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)
-- [CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty) (33 Stars, 10 Fork)
-  - An blockchain collectible game on Tron blockchain thats for photographers and models industry.
+- **[BTC - ETH Cross Chain Atomic Swap](https://github.com/ETHSF-CAL/BTC-ETH-Cross-Chain-Atomic-Swap)** (35 Stars, 18 Fork)
+  - A cross-chain atomic token swap environment built upon the ConsenSys Liquality's chain abstraction layer.
+  - Winner of ETH San Francisco ConsenSys Sponsorship prize 2018 ([Devpost](https://devpost.com/software/web-v2-btc), [Youtube demo video](https://youtu.be/-IsOF69HrBY)).
+- **[CryptoBeauty](https://github.com/TronBeauty/CryptoBeauty)** (33 Stars, 10 Fork)
+  - A blockchain collectible game on Tron blockchain thats for photographers and models industry.
 
 ## Honors
 
@@ -128,8 +128,8 @@ A system that stores, schedules, and distributes haptic devices to the right use
 - _Assistant Instructor_ at **IEEE Full-stack Blockchain Development Tutorial**](https://www.payblock.cash/event/dappcon-tutorial):
   - A blockchain tutorial course co-located with five other IEEE conferences in 2019.
   - Location: East Bay, San Francisco, California, USA
-- _Primary Instructor_ at [**Bootcamp course**](https://www.facebook.com/groups/0x1block/learning_content/) (2 days):
-  - Blockchain Bootcamp on smart contracts development / National Taipei University of Technology, Taipei
+- _Primary Instructor_ at the first [**Blockchain Minor-unit Course**](https://www.facebook.com/groups/0x1block/learning_content/) (2 days):
+  - Blockchain minor-unit course on smart contracts development / National Taipei University of Technology, Taipei
 - _Primary instructor_ at **BlockAngel Class [Female only]**
   - [Introduction to Blockchain and Smart Contracts Principle and Technology](https://www.facebook.com/events/310125033117595/) / [BitHub](https://www.facebook.com/BITHUBbistro/?ref=br_rs), Taiwan
 
