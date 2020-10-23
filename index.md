@@ -124,7 +124,7 @@ A system that stores, schedules, and distributes haptic devices to the right use
 ## Teaching
 
 - _Instructor_ at [**Introductory Blockchain Online Course**](http://hahow.in/cr/berkeley) (5 chapters, 47 units):
-  - The blockchain beginner's online course with the most registered students (around 1500) and in collaboration with multiple universities in Taiwan.
+  - The blockchain beginner's online course with the most registered students (1400+) and in collaboration with multiple universities in Taiwan.
 - _Assistant Instructor_ at **IEEE Full-stack Blockchain Development Tutorial**](https://www.payblock.cash/event/dappcon-tutorial):
   - A blockchain tutorial course co-located with five other IEEE conferences in 2019.
   - Location: East Bay, San Francisco, California, USA
