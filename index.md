@@ -57,6 +57,8 @@ I am now in my fourth year at [The Hong Kong University of Science and Technolog
 
 I discovered my passion towards Blockchain and Distributed Consensus at the age of 19, quitted my position as a Data and AI Associate Consultant at Microsoft and co-founded my company [Turing Chain](https://turingchain.tech/) and [TuringCerts](https://certs.turingchain.tech/). However, in late 2019, due to the interests within the founding team cannot align, I left my companies and resume study, yet the start of the political protests in Hong Kong led me to return to my home country Taiwan. I am thus now a visiting student at NTU and has been a researcher in the HCI Lab under [professor Cheng](http://www.lungpancheng.tw/) since early 2020. Driven by my growing interest in VR, I started my YouTube Channel [_VRemix_x_](https://www.youtube.com/VRemix_x%E8%B3%87%E5%B7%A5%E5%B0%91%E5%A5%B3%E6%9D%8E%E5%A9%B7%E5%A9%B7) in September 2020 and gained 6K subscribers and 11K monthly views within 1.5 month. In my free time, I write technical tutorials on my Medium blog with 4.6K subscribers worldwide to date.
 
+<p>&nbsp;</p>
+
 ## Research Interest
 
 Human-Computer Interaction, Distributed Consensus, Security Exploits
