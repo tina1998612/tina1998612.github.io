@@ -68,7 +68,7 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ## Profile
 
-[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [YouTube](https://www.youtube.com/VRemix_x%E8%B3%87%E5%B7%A5%E5%B0%91%E5%A5%B3%E6%9D%8E%E5%A9%B7%E5%A9%B7), [Online Course](https://hahow.in/cr/berkeley), [Facebook](https://www.facebook.com/lee.ting.ting.tina), [Instagram](https://www.instagram.com/tinaaaaalee/)
+[Google Scholar](https://scholar.google.com/citations?user=zYcVJQMAAAAJ&hl=en), [Github](https://github.com/tina1998612), [LinkedIn](https://www.linkedin.com/in/leetingting/), [Medium](https://medium.com/@tina26919742), [YouTube](https://www.youtube.com/VRemix_x%E8%B3%87%E5%B7%A5%E5%B0%91%E5%A5%B3%E6%9D%8E%E5%A9%B7%E5%A9%B7), [Online Course](https://hahow.in/cr/berkeley), [Facebook](https://www.facebook.com/lee.ting.ting.tina), [Instagram](https://www.instagram.com/tinaaaaalee/), [CV](https://drive.google.com/file/d/1vovRfVbzc7b7UpU6X5a21cYxosfi_1gh/view?usp=sharing)
 
 ## Publications
 
@@ -82,16 +82,16 @@ Human-Computer Interaction, Distributed Consensus, Security Exploits
 
 ### Ongoing
 
-#### [HaptiCenter: A Distribution System for Sharing Haptic Devices in VR](./hapticenter.md)
+#### HaptiCenter: A Distribution System for Sharing Haptic Devices in VR
 
-A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
+- A system that stores, schedules, and distributes haptic devices to the right user at the right time for multiplayer virtual reality experiences.
 
-<div id='wrapper' style='text-align: center;'>
+<!-- <div id='wrapper' style='text-align: center;'>
   <img src="./img/hapticenter/main.jpg" alt="hapticenter">
   <img src="./img/hapticenter/Props.png" alt="hapticenter">
-</div>
+</div> -->
 
-#### [Adaptive Virtual Agent in Mixed Reality](./virtualagent.md)
+#### Adaptive Virtual Agent in Mixed Reality
 
 - An interactive virtual agent to improve the well-being of the user with low-cost and easy-to-obtain materials including a smartphone, a stand, a transparent plastic sheet, and a thin mirror attached to extend the phone’s front camera’s view.
 
